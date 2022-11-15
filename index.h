@@ -75,4 +75,4 @@ input{
     height: 70px;
     width: 300px;
     border-radius: 50px;
-} 
+}
